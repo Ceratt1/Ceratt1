@@ -2,10 +2,6 @@
 
           
             <S2 >I love code</S2>
-          
-
-
-            <img src="" />
                               
           
           
