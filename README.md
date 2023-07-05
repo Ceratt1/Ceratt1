@@ -5,7 +5,7 @@
                               
           
           
-currently in college UNISENAC RS
+currently in college UNISENAC RS <br>
 future fullstack developer
 <div style="display: inline_block"><br>
   <img align="center" alt="mecha-blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg">
