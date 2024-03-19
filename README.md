@@ -13,7 +13,7 @@
 <br>
 
 <ul>
-    <li>💻:  
+    <li>💻=
         <img alt="mecha-py" height="15px"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
         |
@@ -26,14 +26,14 @@
         <img alt="mecha-py" height="15px"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
     </li>
-    <li>⚙️:  
+    <li>⚙️=  
         <img alt="mecha-py" height="15px"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg">
         |
         <img alt="mecha-py" height="15px"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
     </li>
-    <li>🔧:
+    <li>🔧=
         <img alt="mecha-py" height="15px"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
     </li>
