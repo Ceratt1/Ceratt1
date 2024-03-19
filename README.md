@@ -1,20 +1,41 @@
-## Hi there 👋, i am ceratti
-
-          
-            <S2 >I love code</S2>
-                              
-          
-          
-currently in college UNISENAC RS <br>
-backend developer
-<div style="display: inline_block"><br>
-  <img align="center" alt="mecha-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="mecha-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="mecha-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+## Hey! I'm Ceratti.
 
 
+<br>
+👨🏻‍💻 <b>Sobre mim:</b>
+<br>
+<ul>
+    <li>🎓 Estudando na faculdade <b>UNISENAC</b> (3/6)</li>
+    <li>💾 Focado em desenvolvimento back-end</li>
+</ul>
+<br>
+🛠 <b>Tech Stack:</b>
+<br>
 
-</div>
-  
-  ##
- 
+<ul>
+    <li>💻:  
+        <img alt="mecha-py" height="15px"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+        |
+        <img alt="mecha-py" height="15px"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
+        |
+        <img alt="mecha-py" height="15px"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+        |
+        <img alt="mecha-py" height="15px"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+    </li>
+    <li>⚙️:  
+        <img alt="mecha-py" height="15px"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg">
+        |
+        <img alt="mecha-py" height="15px"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
+    </li>
+    <li>🔧:
+        <img alt="mecha-py" height="15px"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
+    </li>
+
+</ul>
