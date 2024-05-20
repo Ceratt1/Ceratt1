@@ -25,6 +25,9 @@
         |
         <img alt="mecha-py" height="15px"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+        |
+        <img alt="mecha-py" height="15px"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
     </li>
     <li>⚙️=  
         <img alt="mecha-py" height="15px"
