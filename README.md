@@ -26,7 +26,11 @@
         <img alt="mecha-py" height="15px"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
         |
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+        <img height="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+        |
+        
+
+ <img height="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
     </li>
     <li>⚙️=  
         <img alt="mecha-py" height="15px"
@@ -38,7 +42,11 @@
     <li>🔧=
         <img alt="mecha-py" height="15px"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
-    </li>
+        |
+        
+ <img height="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
+
+</li>
 
 </ul>
 
