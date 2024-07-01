@@ -7,7 +7,6 @@
 <ul>
     <li>🎓 Estudando na faculdade <b>UNISENAC</b> (3/6)</li>
     <li>👨‍🎓 Estudante turma II <b>+prati</b> </li>
-    <li>🧠 Estudante instituto <b>Caldeira</b> </li>
     <li>💾 Focado em desenvolvimento back-end</li>
 </ul>
 <br>
