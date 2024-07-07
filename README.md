@@ -39,6 +39,4 @@ Desenvolvedor web Back-End apaixonado no que faz
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceratt1&layout=compact&title_color=0080ff&locale=pt-PT&theme=tokyonight" />
 </div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=500&pause=1000&width=435&lines=Nunca+deixe+o+medo+da+falha+ou+a;falta+de+conhecimento+o+impedirem+de;+alcan%C3%A7ar+seus+sonhos+como;programador.+Aprenda+continuamente+e+;mantenha+a+paix%C3%A3o+pela+tecnologia;para+se+tornar+um+grande+sucesso+na;sua+carreira." alt="Typing SVG" /></a>
-</div>
+
