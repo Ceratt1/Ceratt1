@@ -13,7 +13,7 @@
 
 ---
 
-<h3 align="center" style="color: #2d3436; font-family: 'Roboto', sans-serif; margin: 20px 0">💻 Desenvolvedor Web Back-End apaixonado por soluções eficientes e arquitetura limpa 💙</h3>
+<h3 align="center" style="color: #2d3436; font-family: 'Roboto', sans-serif; margin: 20px 0">💻 Desenvolvedor Web Back-End</h3>
 
 ---
 
