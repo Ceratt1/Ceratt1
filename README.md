@@ -6,7 +6,7 @@
   <a href="https://github.com/Ceratt1">
     <img src="https://img.shields.io/badge/-Github-0080FF?style=for-the-badge&labelColor=0080FF&logo=Github&logoColor=white" alt="GitHub Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/gabriel-ceratti-cabral-106476166/">
     <img src="https://img.shields.io/badge/-LinkedIn-0080FF?style=for-the-badge&labelColor=0080FF&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
